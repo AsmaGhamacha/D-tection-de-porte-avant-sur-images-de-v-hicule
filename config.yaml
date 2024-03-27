@@ -1,0 +1,7 @@
+path: C:/BCAExpertise_MiniProjet/porte_avant/data_cars
+train: C:/BCAExpertise_MiniProjet/porte_avant/data_cars/train/images #trainig images : those used to train the model
+val: C:/BCAExpertise_MiniProjet/porte_avant/data_cars/valid/images #valid images : those used to validate the model performance
+
+# Classes
+names:
+  0: porte-avant
